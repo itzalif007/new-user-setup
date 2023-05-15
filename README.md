@@ -4,9 +4,9 @@
 -------------------------------------
 
 
-apt update
+apt update && apt upgrade
 
-apt install
+apt install git
 
  git clone https://github.com/itzalif007/new-user-setup
 
