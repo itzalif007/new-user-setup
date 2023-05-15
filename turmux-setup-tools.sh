@@ -110,7 +110,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'DUDE-SETUP-DONE' |lolcat
+figlet -f slant 'DUDE-SETUP' |lolcat
 echo
 echo
 echo 
