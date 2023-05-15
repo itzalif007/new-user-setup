@@ -5,6 +5,7 @@
 
 
 apt update
+
 apt install
 
  git clone https://github.com/itzalif007/new-user-setup
